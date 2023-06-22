@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Media Terpopuler</string>
+    <string name="languages_name">Nama Bahasa Pemrograman</string>
+    <string name="languages_desc">Deskripsi</string>
+    <string name="nama">Muhammad Cakra</string>
+    <string name="email">cakrapand@gmail.com</string>
+    <string name="about_me">About Me</string>
+    <string name="about">About</string>
+</resources>
